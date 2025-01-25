@@ -1,0 +1,47 @@
+html {
+    background: #000000;
+}
+
+body {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 500%;
+    text-align: center;
+    font-family: fantasy, sans-serif;
+    color: #710004;
+}
+
+h1>a {
+    color: #710004;
+}
+
+h2 {
+    font-size: 250%;
+    text-align: center;
+    font-family: fantasy, sans-serif;
+    color: #710004;
+}
+
+h2>a {
+    font-size: 150%;
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+b {
+    color: #52080a;
+}
+
+header { 
+    position: relative; 
+} 
+ 
+.logo { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+} 
